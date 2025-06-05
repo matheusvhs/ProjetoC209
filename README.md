@@ -19,9 +19,12 @@ https://drive.google.com/drive/folders/1NIPPhIv6ItcSrGG022IRObHj3o3GBJIZ?usp=sha
 
 ## 🔧 Requisitos
 
-- Recomendado: virtualenv ou venv
+- Recomendado: venv
 
 ### Instalação das dependências
 
 ```bash
 pip install moviepy==1.0.3 numpy
+```
+
+![esqueci da prova kkkj](https://media.tenor.com/4wA2HHwzJmQAAAAi/sonic-adventure.gif)
